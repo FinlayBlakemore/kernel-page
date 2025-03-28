@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kernel-page", "kernel-page\kernel-page.vcxproj", "{94592BAB-99EC-4B5C-9FE5-7F25B22FE19B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Deploy|x64 = Deploy|x64
+		Deploy|x86 = Deploy|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94592BAB-99EC-4B5C-9FE5-7F25B22FE19B}.Debug|x64.ActiveCfg = Debug|x64
+		{94592BAB-99EC-4B5C-9FE5-7F25B22FE19B}.Debug|x64.Build.0 = Debug|x64
+		{94592BAB-99EC-4B5C-9FE5-7F25B22FE19B}.Debug|x86.ActiveCfg = Debug|Win32
+		{94592BAB-99EC-4B5C-9FE5-7F25B22FE19B}.Debug|x86.Build.0 = Debug|Win32
+		{94592BAB-99EC-4B5C-9FE5-7F25B22FE19B}.Deploy|x64.ActiveCfg = Deploy|x64
+		{94592BAB-99EC-4B5C-9FE5-7F25B22FE19B}.Deploy|x64.Build.0 = Deploy|x64
+		{94592BAB-99EC-4B5C-9FE5-7F25B22FE19B}.Deploy|x86.ActiveCfg = Deploy|Win32
+		{94592BAB-99EC-4B5C-9FE5-7F25B22FE19B}.Deploy|x86.Build.0 = Deploy|Win32
+		{94592BAB-99EC-4B5C-9FE5-7F25B22FE19B}.Release|x64.ActiveCfg = Release|x64
+		{94592BAB-99EC-4B5C-9FE5-7F25B22FE19B}.Release|x64.Build.0 = Release|x64
+		{94592BAB-99EC-4B5C-9FE5-7F25B22FE19B}.Release|x86.ActiveCfg = Release|Win32
+		{94592BAB-99EC-4B5C-9FE5-7F25B22FE19B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E2B0D0F-C8C8-472C-9711-FF6F4EB0867C}
+	EndGlobalSection
+EndGlobal
